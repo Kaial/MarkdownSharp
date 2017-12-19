@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MarkdownSharp/obj/Debug
+/MarkdownSharp/bin/Debug
+/.vs/MarkdownSharp/v15
+/MarkdownSharpTests/obj/Debug
+/MarkdownSharpTests/bin/Debug
